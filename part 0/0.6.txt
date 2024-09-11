@@ -1,0 +1,3 @@
+browser makes a POST request to the server with JSON content of the note and its date
+
+Server creates a 201 and the note is displayed with the help of event handers.

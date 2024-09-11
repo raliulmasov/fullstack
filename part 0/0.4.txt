@@ -1,0 +1,9 @@
+browser makes a POST request to https://studies.cs.helsinki.fi/exampleapp/new_note
+
+servers asks to do a GET request
+
+browser makes a GET request  for HTML, CSS and JS code
+
+JS code is executed to GET JSON file from the server 
+
+The note is rendered on display.
